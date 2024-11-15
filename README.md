@@ -12,7 +12,7 @@ The first was not all textures on Shakashuri was applied properly. I fixed them 
 
 ## Xavier
 
-This is the direct .3ds conversion with proper rigging. The sample animation is not working I have been unable to restore but the animantion for the model are possible the rigging is in tact. I have tried to include a .fbx file with embedded textures but when I attempt to export the model is never positioned correctly.
+This is the direct .3ds conversion with proper rigging. The sample animation is not working I have been unable to restore but the rigging is in tact. I have tried to include a .fbx file with embedded textures but when I attempt to export the model is never positioned correctly.
 
 ## Textures
 
