@@ -16,4 +16,4 @@ This is the direct .3ds conversion with proper rigging. The sample animation is 
 
 ## Textures
 
-If the textures do not apply correctly when opening .blend file you will have to go to file > external data > find missing files.
+If the textures do not apply correctly when opening .blend file you will have to go to file > external data > find missing files and select the texture folder as target.
