@@ -1,4 +1,4 @@
-# Xavier Renegade Angel 3ds TO FBX Conversion
+# Xavier Renegade Angel 3ds To FBX Conversion
 
 These are the 3DS .max animation files originally uploaded for Xavier Renegade Angel Contest. I have tried my best to update them to make them more modern, but conversion has been difficult.
 
