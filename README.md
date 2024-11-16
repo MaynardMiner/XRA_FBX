@@ -12,7 +12,7 @@ The first was not all textures on Shakashuri was applied properly. I fixed them 
 
 ## Xavier
 
-This is the direct .3ds conversion with proper rigging. The sample animation is not working I have been unable to restore but the rigging is in tact. I have tried to include a .fbx file with embedded textures but when I attempt to export the model is never positioned correctly.
+This is the direct .3ds conversion with proper rigging. I was not able to fix the walk animation (will not convert properly). I have positioned the model correctly, remapped original rig and confirmed working through mixamo. I intend to modernize the rig further but right now it's a working rig that can be plugged into most modern animation software. If the textures do not load for you, you can use find missing files option in blender and select the textures folder.
 
 ## Textures
 
